@@ -1,2 +1,3 @@
 # brindle-rowan
-Rowan Theme With Generatepress
+Rowan
+~Current Version:1.0~
